@@ -3,14 +3,14 @@
   <h3 align="center">FIND THE BEST RESOURCES FOR YOUR CODING JOURNEY </h3>
 
   <p align="center">
-    <a href="https://github.com/ZaidKhan2002/DEV.MAPS"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/NerissaFerreira/Roadmaps"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://zaidkhan2002.github.io/DEV.MAPS/">View Demo</a>
+    <a href="https://nerissaferreira.github.io/Roadmaps/">View Demo</a>
     ·
-    <a href="https://github.com/ZaidKhan2002/DEV.MAPS/issues">Report Bug</a>
+    <a href="https://github.com/NerissaFerreira/Roadmaps/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ZaidKhan2002/DEV.MAPS/issues">Request Feature</a>
+    <a href="https://github.com/NerissaFerreira/Roadmaps/issues">Request Feature</a>
   </p>
 </p>
 
